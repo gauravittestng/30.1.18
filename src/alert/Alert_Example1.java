@@ -10,7 +10,7 @@ public class Alert_Example1 {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\bnbin777\\Desktop\\64 bit\\geckodriver.exe");
+		/*System.setProperty("webdriver.gecko.driver", "C:\\Users\\bnbin777\\Desktop\\64 bit\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://demo.automationtesting.in/Alerts.html");
 		driver.findElement(By.cssSelector(".btn-danger")).click();
@@ -29,7 +29,7 @@ public class Alert_Example1 {
 		Alert alrtbox = driver.switchTo().alert();
 		String text = alrtbox.getText();
 		System.out.println(text);
-		alrtbox.accept();
+		alrtbox.accept();*/
 		
 		
 	
